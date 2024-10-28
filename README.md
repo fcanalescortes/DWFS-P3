@@ -35,6 +35,6 @@ Para el diseño inicial de la página, se ha utilizado [Draw.io](https://draw.io
    - Enlaces a redes sociales.
    - Información adicional sobre el negocio.
 
-# Contacto
+## Contacto
 
 Si tienes preguntas o sugerencias, no dudes en contactarme en la siguiente casilla de correo electrónico: frcanales.dwfs16@bootcampudd.cl
